@@ -1,0 +1,26 @@
+:root {
+  --bg-sections: #121212;
+  --bg-search: #242424;
+  --text-color: #fff;
+  --secundary-color: #b3b3b3;
+
+  --bg-icon: #131313;
+  --bg-arrow-color: rgba(0, 0, 0, 7);
+
+  --card1-color: rgb(0, 100, 80);
+  --card2-color: rgb(132, 0, 231);
+  --card3-color: rgb(30, 50, 100);
+  --card4-color: rgb(140, 25, 50);
+  --card5-color: rgb(232, 17, 91);
+  --card6-color: rgb(83, 122, 161);
+  --card7-color: rgb(142, 102, 172);
+  --card8-color: rgb(20, 138, 8);
+  --card9-color: rgb(30, 50, 100);
+  --card10-color: rgb(233, 20, 41);
+  --card11-color: rgb(80, 55, 80);
+  --card12-color: rgb(216, 64, 0);
+  --card13-color: rgb(186, 93, 7);
+  --card14-color: rgb(0, 30, 80);
+  --card15-color: rgb(60, 30, 80);
+
+}

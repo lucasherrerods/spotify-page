@@ -1,0 +1,136 @@
+.playlist-container {
+  height: 68vh;
+  padding-top: 16px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: var(--bg-sections);
+}
+
+.playlist {
+  margin: 24px;
+}
+
+.playlist h1 {
+  color: var(--text-color);
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
+
+.playlist h2 {
+  color: var(--text-color);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* SCROLL */
+.offer-scroll-container {
+  max-height: 43vh;
+  margin: 24px;
+  overflow-y: auto;
+}
+
+.offer-scroll-container::-webkit-scrollbar {
+  width: 1px;
+}
+
+.offer-scroll-container::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+
+/* FIM SCROLL */
+
+.offer-list-item {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 32px;
+  gap: 16px;
+  margin-bottom: 16px;
+  margin: 0 auto;
+}
+
+.offer-list-item img {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: auto;
+  width: 107px;
+  transform: rotate(25deg) translate(18%, -2%);
+}
+
+.cards {
+  position: relative;
+  width: 220px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.cards span {
+  padding: 16px;
+  position: absolute;
+  color: var(--text-color);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.card1 {
+  background-color: var(--card1-color);
+}
+
+.card2 {
+  background-color: var(--card2-color);
+}
+
+.card3 {
+  background-color: var(--card3-color);
+}
+
+.card4 {
+  background-color: var(--card4-color);
+}
+
+.card5 {
+  background-color: var(--card5-color);
+}
+
+.card6 {
+  background-color: var(--card6-color);
+}
+
+.card7 {
+  background-color: var(--card7-color);
+}
+
+.card8 {
+  background-color: var(--card8-color);
+}
+
+.card9 {
+  background-color: var(--card9-color);
+}
+
+.card10 {
+  background-color: var(--card10-color);
+}
+
+.card11 {
+  background-color: var(--card11-color);
+}
+
+.card12 {
+  background-color: var(--card12-color);
+}
+
+.card13 {
+  background-color: var(--card13-color);
+}
+
+.card14 {
+  background-color: var(--card14-color);
+}
+
+.card15 {
+  background-color: var(--card15-color);
+}
