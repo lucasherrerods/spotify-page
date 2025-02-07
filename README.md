@@ -53,5 +53,6 @@ Cada artista é representado como um objeto JSON com a seguinte estrutura:
 
 <div align="center">
     <img src="./frontend/images/example/1.png" alt="Exemplo 1 do Projeto" width="600">
+   <br><br>
     <img src="./frontend/images/example/2.png" alt="Exemplo 2 do Projeto" width="600">
 </div>
