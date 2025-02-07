@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lucasherrerods",
+  "license": "ISC",
+  "description": "endpoint que retorna uma lista fictícia de artistas presentes na plataforma do Spotify, com informações como nome, gênero e foto.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

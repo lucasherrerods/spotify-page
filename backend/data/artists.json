@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Racionais MC's",
+    "genre": "Hip Hop",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5eb43a0d1ae0af71095fcb26726"
+  },
+  {
+    "id": 2,
+    "name": "MC Cebezinho",
+    "genre": "Funk",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5eb6cdab9738cc51dd200082c5d"
+  },
+  {
+    "id": 3,
+    "name": "Emicida",
+    "genre": "Hip Hop",
+    "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+  },
+  {
+    "id": 4,
+    "name": "Djonga",
+    "genre": "Hip Hop",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5eba83e9f0e901c17791b83be8b"
+  },
+  {
+    "id": 5,
+    "name": "MC Hariel",
+    "genre": "Funk",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf3e0b46d07307bb3d5d95ad2"
+  },
+  {
+    "id": 6,
+    "name": "Mc IG",
+    "genre": "Funk",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5eb2ba3426df9fa313577ad8f92"
+  },
+  {
+    "id": 7,
+    "name": "Travis Scott",
+    "genre": "Hip Hop",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71"
+  },
+  {
+    "id": 8,
+    "name": "Kendrick Lamar",
+    "genre": "Hip Hop",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918"
+  },
+  {
+    "id": 9,
+    "name": "BK",
+    "genre": "Hip Hop",
+    "urlImg": "https://i.scdn.co/image/ab6761610000e5ebaedd984d97865aef05fb6060"
+  },
+  {
+    "id": 10,
+    "name": "Mc Kadu",
+    "genre": "Hip Hop",
+    "urlImg": "hhttps://i.scdn.co/image/ab6761610000e5eb48ebde532789781918d43b8f"
+  }
+]
