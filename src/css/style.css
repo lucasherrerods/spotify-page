@@ -1,2 +1,4 @@
 @import url(./reset.css);
-@import url(./sidebar.css);
+
+@import url(./components/sidebar.css);
+@import url(./components/main/header.css);
